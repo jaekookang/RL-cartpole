@@ -6,9 +6,9 @@
     * [Matthew Chan](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947)
 
 * Task: 
-    * Make cart-pole stay still!
-    * ![cart-pole](https://cdn-images-1.medium.com/max/800/1*oMSg2_mKguAGKy1C64UFlw.gif)  
-	>> [Link](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947)  
+	* Make cart-pole stay still!  
+	* ![cart-pole](https://cdn-images-1.medium.com/max/800/1*oMSg2_mKguAGKy1C64UFlw.gif) [Link](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947)  
+
 
 * Experiment:
 	* 00 - Play cartpole!
