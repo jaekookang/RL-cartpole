@@ -8,7 +8,7 @@ from typing import List
 import pdb
 
 env = gym.make('CartPole-v0')
-env = gym.wrappers.Monitor(env, 'gym-results/', force=True)
+env = gym.wrappers.Monitor(env, '06-results/', force=True)
 input_size = env.observation_space.shape[0]  # 4 (x, x', v, v')
 output_size = env.action_space.n  # 2 (left, right)
 

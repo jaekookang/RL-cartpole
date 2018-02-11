@@ -7,7 +7,8 @@
 
 * Task: 
 	* Make cart-pole stay still!  
-	* ![cart-pole](https://cdn-images-1.medium.com/max/800/1*oMSg2_mKguAGKy1C64UFlw.gif) [Link](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947)  
+	* ![cart-pole](https://cdn-images-1.medium.com/max/800/1*oMSg2_mKguAGKy1C64UFlw.gif)
+		* [GIF Link](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947)  
 
 
 * Experiment:
@@ -30,4 +31,5 @@
 	* 03 - Discounted reward ![03](result/03_discounted_reward.png)
 	* 04 - Exploit-Exploration (w/e-greedy) ![04](result/04_discounted_reward_exploit_explore.png)
 	* 05 - Q-Net (Neural Net) ![05](result/05_Q-Net.png)
-	* 06 - Deep Q-Net
+	* 06 - Deep Q-Net ![06](result/06_DQN.png)
+	* 07 - Policy Gradient ![07](result/07_policy_gradient.png)
